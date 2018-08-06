@@ -1,0 +1,48 @@
+﻿  project514.cpp
+c:\users\qnmlgb\source\repos\theperfectinjector2\error.h(9): warning C4005: 'ERROR': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\wingdi.h(114): note: see previous definition of 'ERROR'
+c:\users\qnmlgb\source\repos\theperfectinjector2\lockedmemory.h(7): warning C4330: attribute 'write' for section '.LTEXT' ignored
+c:\users\qnmlgb\source\repos\theperfectinjector2\lockedmemory.h(46): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SIZE_T'
+  c:\users\qnmlgb\source\repos\theperfectinjector2\lockedmemory.h(46): note: consider using '%lld' in the format string
+  c:\users\qnmlgb\source\repos\theperfectinjector2\lockedmemory.h(46): note: consider using '%Id' in the format string
+  c:\users\qnmlgb\source\repos\theperfectinjector2\lockedmemory.h(46): note: consider using '%I64d' in the format string
+c:\users\qnmlgb\source\repos\theperfectinjector2\lockedmemory.h(46): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'SIZE_T'
+  c:\users\qnmlgb\source\repos\theperfectinjector2\lockedmemory.h(46): note: consider using '%lld' in the format string
+  c:\users\qnmlgb\source\repos\theperfectinjector2\lockedmemory.h(46): note: consider using '%Id' in the format string
+  c:\users\qnmlgb\source\repos\theperfectinjector2\lockedmemory.h(46): note: consider using '%I64d' in the format string
+c:\users\qnmlgb\source\repos\theperfectinjector2\lockedmemory.h(46): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'SIZE_T'
+  c:\users\qnmlgb\source\repos\theperfectinjector2\lockedmemory.h(46): note: consider using '%lld' in the format string
+  c:\users\qnmlgb\source\repos\theperfectinjector2\lockedmemory.h(46): note: consider using '%Id' in the format string
+  c:\users\qnmlgb\source\repos\theperfectinjector2\lockedmemory.h(46): note: consider using '%I64d' in the format string
+c:\users\qnmlgb\source\repos\theperfectinjector2\lockedmemory.h(46): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 4 has type 'SIZE_T'
+  c:\users\qnmlgb\source\repos\theperfectinjector2\lockedmemory.h(46): note: consider using '%lld' in the format string
+  c:\users\qnmlgb\source\repos\theperfectinjector2\lockedmemory.h(46): note: consider using '%Id' in the format string
+  c:\users\qnmlgb\source\repos\theperfectinjector2\lockedmemory.h(46): note: consider using '%I64d' in the format string
+c:\users\qnmlgb\source\repos\theperfectinjector2\lockedmemory.h(70): warning C4477: 'printf' : format string '%16llx' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'PBYTE'
+c:\users\qnmlgb\source\repos\theperfectinjector2\lockedmemory.h(75): warning C4477: 'printf' : format string '%16llx' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'PVOID'
+c:\users\qnmlgb\source\repos\theperfectinjector2\lockedmemory.h(83): warning C4477: 'printf' : format string '%16llx' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'char *'
+c:\users\qnmlgb\source\repos\theperfectinjector2\lockedmemory.h(83): warning C4477: 'printf' : format string '%16llx' requires an argument of type 'unsigned __int64', but variadic argument 2 has type 'char *'
+c:\users\qnmlgb\source\repos\theperfectinjector2\lockedmemory.h(84): warning C4477: 'printf' : format string '%16llx' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'char *'
+c:\users\qnmlgb\source\repos\theperfectinjector2\lockedmemory.h(84): warning C4477: 'printf' : format string '%16llx' requires an argument of type 'unsigned __int64', but variadic argument 2 has type 'char *'
+c:\users\qnmlgb\source\repos\theperfectinjector2\driverloader.h(175): warning C4477: 'printf' : format string '%08x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'HANDLE'
+c:\users\qnmlgb\source\repos\theperfectinjector2\driverloader.h(175): warning C4313: 'printf': '%x' in format string conflicts with argument 2 of type 'HANDLE'
+c:\users\qnmlgb\source\repos\theperfectinjector2\memorycontroller.h(466): warning C4477: 'printf' : format string '%16llx' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'PUCHAR'
+c:\users\qnmlgb\source\repos\theperfectinjector2\memorycontroller.h(476): warning C4477: 'printf' : format string '%16llx' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'NTSTATUS'
+  c:\users\qnmlgb\source\repos\theperfectinjector2\memorycontroller.h(476): note: consider using '%lx' in the format string
+c:\users\qnmlgb\source\repos\theperfectinjector2\project514.cpp(288): warning C4477: 'printf' : format string '%04x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'uint64_t'
+  c:\users\qnmlgb\source\repos\theperfectinjector2\project514.cpp(288): note: consider using '%llx' in the format string
+  c:\users\qnmlgb\source\repos\theperfectinjector2\project514.cpp(288): note: consider using '%Ix' in the format string
+  c:\users\qnmlgb\source\repos\theperfectinjector2\project514.cpp(288): note: consider using '%I64x' in the format string
+c:\users\qnmlgb\source\repos\theperfectinjector2\project514.cpp(303): warning C4477: 'printf' : format string '%16llx' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'PVOID '
+c:\users\qnmlgb\source\repos\theperfectinjector2\project514.cpp(303): warning C4477: 'printf' : format string '%08x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'SIZE_T'
+  c:\users\qnmlgb\source\repos\theperfectinjector2\project514.cpp(303): note: consider using '%llx' in the format string
+  c:\users\qnmlgb\source\repos\theperfectinjector2\project514.cpp(303): note: consider using '%Ix' in the format string
+  c:\users\qnmlgb\source\repos\theperfectinjector2\project514.cpp(303): note: consider using '%I64x' in the format string
+c:\users\qnmlgb\source\repos\theperfectinjector2\project514.cpp(323): warning C4477: 'printf' : format string '%16llx' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'PUCHAR'
+c:\users\qnmlgb\source\repos\theperfectinjector2\project514.cpp(324): warning C4477: 'printf' : format string '%16llx' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'PUCHAR'
+c:\users\qnmlgb\source\repos\theperfectinjector2\project514.cpp(325): warning C4477: 'printf' : format string '%16llx' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'PUCHAR'
+c:\users\qnmlgb\source\repos\theperfectinjector2\project514.cpp(326): warning C4477: 'printf' : format string '%16llx' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'TlsLockedHookController *'
+c:\users\qnmlgb\source\repos\theperfectinjector2\project514.cpp(389): warning C4477: 'printf' : format string '%16llx' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'int'
+  c:\users\qnmlgb\source\repos\theperfectinjector2\project514.cpp(389): note: consider using '%x' in the format string
+  c:\users\qnmlgb\source\repos\theperfectinjector2\project514.cpp(389): note: consider using '%I32x' in the format string
+  project514.vcxproj -> C:\Users\qnmlgb\source\repos\ThePerfectInjector2\x64\Release\project514.exe
